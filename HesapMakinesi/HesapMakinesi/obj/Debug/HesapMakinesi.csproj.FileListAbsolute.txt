@@ -1,0 +1,11 @@
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+D:\Visual Studio Çalışmaları\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
